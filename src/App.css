@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+/* sjgsjg */
+
+
+
+.cid-u7iIUPFU5B {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: transparent;
+}
+.cid-u7iIUPFU5B .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-u7iIUPFU5B form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-u7iIUPFU5B form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-u7iIUPFU5B form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-u7iIUPFU5B .content-head {
+  max-width: 800px;
+}
+
